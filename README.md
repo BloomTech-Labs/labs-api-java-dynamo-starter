@@ -18,8 +18,3 @@ Labs teams must follow all [Labs Engineering Standards](https://bloomtechlabs.gi
 - `dynamodburl` - connection string for dynamo
 
 See application-dev.properties for example values
-
-## Contributing
-
-See the [contributing doc](https://github.com/Lambda-School-Labs/labs-api-starter/blob/main/CONTRIBUTING.md)
-for more info.
